@@ -10,4 +10,4 @@
 + Apr 20: 完成入選、備取、拒絕稿件清單
 + Apr 30: 公告議程
 
-2016 年 Google Docs 版本的 [審稿指南](https://docs.google.com/document/d/1S1k_56huMgCp_5vLuiQD-gOvSEDFxo9NQyMLTO3IqqE/edit#) 同步更新。
+~~2016 年 Google Docs 版本的 [審稿指南](https://docs.google.com/document/d/1S1k_56huMgCp_5vLuiQD-gOvSEDFxo9NQyMLTO3IqqE/edit#) 同步更新。~~
