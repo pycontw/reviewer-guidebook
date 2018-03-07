@@ -8,7 +8,7 @@
   {
     "title": "PyCon TW Reviewer Guide 審稿指南",
     "heading": "h1",
-    "content": "\n<p>您好，歡迎您加入 PyConTW 審稿的行列。請點選 <a href=\"reviewer-guide.md\">審稿指南</a> 開始了解審稿流程。</p>\n<p>本次審稿的表定時程如下：</p>\n<ul>\n<li>Mar 5: Call for Proposal 截止</li>\n<li>Mar 7 ~ Apr 22: 第一階段審稿</li>\n<li>Apr 24 ~ Apr 1: 投稿者修稿階段</li>\n<li>Apr 2 ~ 16: 第二階段審稿</li>\n<li>Apr 20: 完成入選、備取、拒絕稿件清單</li>\n<li>Apr 30: 公告議程</li>\n</ul>\n<p><del>2016 年 Google Docs 版本的 <a href=\"https://docs.google.com/document/d/1S1k_56huMgCp_5vLuiQD-gOvSEDFxo9NQyMLTO3IqqE/edit#\">審稿指南</a> 同步更新。</del></p>\n",
+    "content": "\n<p>您好，歡迎您加入 PyConTW 審稿的行列。請點選 <a href=\"reviewer-guide.md\">審稿指南</a> 開始了解審稿流程。</p>\n<p>本次審稿的表定時程如下：</p>\n<ul>\n<li>Mar 5: Call for Proposal 截止</li>\n<li>Mar 7 ~ Mar 22: 第一階段審稿</li>\n<li>Mar 24 ~ Apr 1: 投稿者修稿階段</li>\n<li>Apr 2 ~ 16: 第二階段審稿</li>\n<li>Apr 20: 完成入選、備取、拒絕稿件清單</li>\n<li>Apr 30: 公告議程</li>\n</ul>\n<p><del>2016 年 Google Docs 版本的 <a href=\"https://docs.google.com/document/d/1S1k_56huMgCp_5vLuiQD-gOvSEDFxo9NQyMLTO3IqqE/edit#\">審稿指南</a> 同步更新。</del></p>\n",
     "path": "README.md"
   }
 ]
