@@ -67,4 +67,5 @@ Here are some examples:
 
 # Q & A
 **Q**: If in some reason, I may know or I may guess out some proposal's author. In the first round, this may cause some conflict of interest, do I qualify to review this proposal?
+
 **A**: Briefly speaking, yes, you can review these proposals. This kind of problem is common in the science journal, even if they can guess the author, they still will review these paper. Anyway, you can 100% sure about the author of the proposal, and sometime their will have the coincidence.
