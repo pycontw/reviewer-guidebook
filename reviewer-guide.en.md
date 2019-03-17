@@ -37,7 +37,7 @@ For Python Level, please refer to [《How to Choose the Python Level》](https:/
 + Language options for proposals are: English talk, Chinese talk with English slides, Chinese talk with Chinese slides and Taiwanese Hokkien. When an author choose to do **English talk**, please use English to comment.
 
 
-# Voting and Acceptance mechanism
+# Voting and Acceptance
 ### Voting
 
 There are four different vote options: -1, -0, +0, +1.
@@ -48,7 +48,7 @@ Each vote option's meaning is as follows:
 * **+0**：Weak Accept
 * **+1**：Strong Accept    This **SHOULD** be in PyCon TW
 
-### Accept mechanism
+### Acceptance
 
 When each round ends, some of the proposal will be rejected or accepted, the standard is:
 * **Reject**：one or more -1s, no +0s or +1s
