@@ -5,7 +5,7 @@ In PyCon TW, our proposal review process is based on **Two Round** review.
 Please login to PyCon TW website to review, and we **WILL NOT** reveal your identity in the whole review process.
 
 ### First Round
-- Review all proposal, give rating & comments.
+- Review proposals, give votes & comments.
 - Other reviewer's comments, speaker's (the author) name, and speaker's experience are masked. 
   **In other words, give votes based only on content**
 - After first round, we will accept some proposals.
@@ -16,7 +16,7 @@ Please login to PyCon TW website to review, and we **WILL NOT** reveal your iden
 - There will be no review activities during this stage.
 
 ### Second Round
-- The proposal that accept in first round will go into second round after the modify stage.
+- Proposals those were not directly accepted from the first round will go into second round.
 - Please recheck the proposals that you've reviewed in first stage, and review the proposal **again** based on the modified version.
 - If you didn't update your vote and comment, or at least entering the same vote and comment, **your vote given in first round will not be taken into consideration**. (Except ones didn't change in the modification stage)
 - Now you can view **the information of the author**, and **other reviewers' votes and comments (anonymous)**
