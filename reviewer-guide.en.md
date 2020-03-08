@@ -6,7 +6,7 @@ Please login to PyCon TW website to review, and we **WILL NOT** reveal your iden
 
 ### First Round
 - Review proposals, give votes & comments.
-- Other reviewer's comments, speaker's (the author) name, and speaker's experience are masked. 
+- Other reviewer's comments, speaker's (the author) name, and speaker's experience are masked.
   **In other words, give votes based only on content**
 - After first round, we will accept some proposals.
 
@@ -31,7 +31,7 @@ After review, we will email the second round votes and comments to authors. If y
 + Please vote and comment according to **Python Level** of the proposal.
 For Python Level, please refer to [《How to Choose the Python Level》](https://tw.pycon.org/2018/en-us/speaking/talk/)。
 + Although accepting or rejecting is our standard as reviewers, but for PyCon TW, it's not only about accepting and rejecting, but also to foster the community. Please judge in a mindset of **how to make the proposal better**, not just yes or no.
-+ Even though the review process is anonymous, we should respect author and follow PyCon TW [Code of Conduct](https://tw.pycon.org/2018/en-us/about/code-of-conduct//).
++ Even though the review process is anonymous, we should respect author and follow PyCon TW [Code of Conduct](https://tw.pycon.org/2020/en-us/about/code-of-conduct/).
 
 # Details
 + Language options for proposals are: English talk, Chinese talk with English slides, Chinese talk with Chinese slides and Taiwanese Hokkien. When an author choose to do **English talk**, please use English to comment.
