@@ -1,0 +1,17 @@
+name: 'Gitbook Action Build'
+on:
+  push:
+    branches:
+      - master  # trigger branch
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout action
+      uses: actions/checkout@v2
+    - name: Gitbook Action
+      uses: zanderzhao/gitbook-action@v1.2.2
+      with:
+        token: ${{ secrets.DEPLOY_GITHUB_TOKEN }}
+        time_zone: Asia/Taipei  # set time zone
+        publish_commit_message: ${{ github.event.head_commit.message }}  # use last commit message
