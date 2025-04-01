@@ -26,17 +26,17 @@ Please login to PyCon TW reviewing system to review, and we **WILL NOT** reveal 
 After review, we will email the second round votes and comments to authors. If you don't want to disclose your votes & comments, please change the "Disclose comment to proposal submitter" field to "No".
 
 # Notice
-+ Giving **constructive comments** is helpful for the review process, and helps author in the modification stage.
-+ When rating, please put yourself into author's shoes, refer to [《How to Propose a Talk》](https://tw.pycon.org/2025/en-us/speaking/talk) about good ideas and bad ideas as judging criteria. We also welcome reviewers to give us more advice on how to distinguish good and bad ideas for proposals.
-+ Please vote and comment according to **Python Level** of the proposal.
+- Giving **constructive comments** is helpful for the review process, and helps author in the modification stage.
+- When rating, please put yourself into author's shoes, refer to [《How to Propose a Talk》](https://tw.pycon.org/2025/en-us/speaking/talk) about good ideas and bad ideas as judging criteria. We also welcome reviewers to give us more advice on how to distinguish good and bad ideas for proposals.
+- Please vote and comment according to **Python Level** of the proposal.
 For Python Level, please refer to [《How to Choose the Python Level》](https://tw.pycon.org/2025/en-us/speaking/talk)。
-+ Although accepting or rejecting is our standard as reviewers, but for PyCon TW, it's not only about accepting and rejecting, but also to foster the community. Please judge in a mindset of **how to make the proposal better**, not just yes or no.
-+ Even though the review process is anonymous, we should respect author and follow PyCon TW [Code of Conduct](https://tw.pycon.org/2025/en-us/about/code-of-conduct).
+- Although accepting or rejecting is our standard as reviewers, but for PyCon TW, it's not only about accepting and rejecting, but also to foster the community. Please judge in a mindset of **how to make the proposal better**, not just yes or no.
+- Even though the review process is anonymous, we should respect author and follow PyCon TW [Code of Conduct](https://tw.pycon.org/2025/en-us/about/code-of-conduct).
 
 # Details
-+ Language options for proposals can be: English talk and non-English talk. When an author choose to do **English talk**, please use English to comment.
-+ Due to the large volume of proposals over the years, we strongly recommend that you prioritize reviewing proposals that are more closely related to your technical background. After that, you can proceed to review proposals from fields you have experience with, in order.
-+ If you encounter a field that you are not familiar with, you may choose not to review the proposal.
+- Language options for proposals can be: English talk and non-English talk. When an author choose to do **English talk**, please use English to comment.
+- Due to the large volume of proposals over the years, we strongly recommend that you prioritize reviewing proposals that are more closely related to your technical background. After that, you can proceed to review proposals from fields you have experience with, in order.
+- If you encounter a field that you are not familiar with, you may choose not to review the proposal.
 
 # Voting and Acceptance
 ### Voting
@@ -44,13 +44,12 @@ For Python Level, please refer to [《How to Choose the Python Level》](https:/
 There are four different vote options: -1, -0, +0, +1.
 
 Each vote option's meaning is as follows:
-* **-1**：Strong Reject    This **SHOULD NOT** be in PyCon TW 2025
-* **-0**：Weak Reject    This **IS ACCEPTABLE, BUT SLIGHTLY NOT RECOMMENDED** to be in PyCon TW 2025 
-* **+0**：Weak Accept    This **IS ACCEPTABLE, AND SLIGHTLY RECOMMENDED** to be in PyCon TW 2025
-* **+1**：Strong Accept    This **SHOULD** be in PyCon TW 2025
+* **-1**：Strong Reject    This **SHOULD NOT** be in PyCon TW
+* **-0**：Weak Reject    This **IS ACCEPTABLE, BUT SLIGHTLY NOT RECOMMENDED** to be in PyCon TW 
+* **+0**：Weak Accept    This **IS ACCEPTABLE, AND SLIGHTLY RECOMMENDED** to be in PyCon TW
+* **+1**：Strong Accept    This **SHOULD** be in PyCon TW
 
 # Reviewer's Responsibility and Review Rate
-Dear Reviewers,
 Thank you very much for agreeing to serve as a reviewer for this conference. Your professional contributions are essential to ensuring the technical quality of the conference. We understand that you have a busy schedule and other personal commitments. However, your participation plays a critical role in enhancing the quality and fairness of the conference.
 
 In order to ensure a smooth review process and to guarantee that each proposal is reviewed in a timely and thorough manner, we hope to achieve the following common goals:
@@ -66,7 +65,7 @@ In addition to the quantity of reviews, we also emphasize the quality of reviews
 ### 3. In Case You Cannot Review on Time
 If, for any reason, you are unable to complete a review on time due to scheduling or other issues, please inform us as soon as possible. We will do our best to assist you. You can contact us at program@python.tw.
 
-### 4. Thank You for Your Support and Understanding
+# Thank You for Your Support and Understanding
 We truly appreciate the time you have dedicated to reviewing proposals amidst your busy work or personal schedule. Your contribution is invaluable, and we sincerely thank you for your support. We look forward to making this conference a smooth and outstanding event with your help.
 
 # Q & A
